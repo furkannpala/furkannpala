@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/furkannpala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:furkannpl@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/furkannpala"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=furkannpala&style=for-the-badge&color=F97316&label=VIEWS" alt="Profile views" />
@@ -39,15 +39,20 @@ learning:  [ Spring Boot, React, System Design ]
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,dart,cpp&theme=dark" alt="Java, Python, TypeScript, JavaScript, Dart, C++" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,dart,c,cpp&theme=dark" alt="Java, Python, TypeScript, JavaScript, Dart, C, C++" />
 
 **Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,opencv,maven&theme=dark" alt="Flutter, React, Node.js, OpenCV, Maven" />
 
+**Databases & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,docker&theme=dark" alt="PostgreSQL, MySQL, Apache Kafka, Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle Database" />
+
 **Tools & Environments**
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio,mysql&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code, Android Studio, MySQL" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio,linux&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code, Android Studio, Linux" />
 
 </div>
 
@@ -107,7 +112,7 @@ Flutter mobile app for discovering and sharing recipes. Contributed as part of a
 Open to internships, collaboration and interesting side projects.
 
 <a href="mailto:furkannpl@gmail.com"><img src="https://img.shields.io/badge/furkannpl@gmail.com-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/KULLANICI-ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/furkannpala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
