@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:60A5FA&height=170&section=header&fontColor=ffffff" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:60A5FA&height=200&section=header&text=Furkan%20Pala&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" alt="Furkan Pala" />
 
 <div align="center">
 
 <a href="https://github.com/furkannpala">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=110&lines=Furkan+Pala;Computer+Engineering+Student;Java+%7C+Python+%7C+TypeScript+%7C+Dart;Desktop+%7C+Web+%7C+Computer+Vision" alt="Furkan Pala" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&height=80&lines=Computer+Engineering+Student;Java+%7C+Python+%7C+TypeScript+%7C+Dart;Desktop+%7C+Web+%7C+Computer+Vision" alt="Computer Engineering Student" />
 </a>
 
 <br/>
