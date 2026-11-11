@@ -87,14 +87,15 @@ Flutter mobile app for discovering and sharing recipes. Contributed as part of a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkannpala&bg_color=0D1117&color=60A5FA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/furkannpala/furkannpala/output/activity-graph.svg" width="100%" alt="Contribution graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkannpala&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=furkannpala&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=8B5CF6&icon_color=60A5FA&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+
 <img src="https://streak-stats.demolab.com?user=furkannpala&theme=dark&background=0D1117&hide_border=true&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkannpala&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="150" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=furkannpala&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="150" alt="Top languages" />
 
 </div>
 
